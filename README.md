@@ -1,5 +1,5 @@
 # SlidelyDesktopApp
-This application was created towards the task of building of a Windows Desktop Application replicating Google Forms app using Visual Basic.NET given by Slidely AI
+This application was created towards the task of building a Windows Desktop Application replicating Google Forms
 
 The repo consists of a project which consists 3 forms that enable the following operations:
 (FIND IN CreateSubmission)
